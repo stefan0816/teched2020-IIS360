@@ -107,7 +107,7 @@
 			"position": 0
 		}, {
 			"id": "1",
-			"icon": "sap-icon://incident",
+			"icon": "sap-icon://survey",
 			"label": "Incident Record Review",
 			"position": 1
 		}, {
